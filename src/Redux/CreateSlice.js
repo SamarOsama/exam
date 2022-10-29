@@ -1,25 +1,25 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 let questionList = [
-    {"Question":"q1",
-"correctAnswer":"a",
- "choicesList":["a","b","c"]
+    {"Question":"What is your country Code for Egypt?",
+"correctAnswer":"EG",
+ "choicesList":["EG","US","UK","KW"]
 },
-{"Question":"q2",
-"correctAnswer":"b",
- "choicesList":["a","b","c"]
+{"Question":"What is the country Code for united states?",
+"correctAnswer":"US",
+"choicesList":["EG","US","LG","KW"]
 },
-{"Question":"q3",
-"correctAnswer":"c",
- "choicesList":["a","b","c"]
+{"Question":"What is the country Code for united kingdom?",
+"correctAnswer":"UK",
+"choicesList":["LC","US","UK","XY"]
 },
-{"Question":"q4",
-"correctAnswer":"c",
- "choicesList":["a","b","c"]
+{"Question":"What is the country Code for Kuwait?",
+"correctAnswer":"KW",
+"choicesList":["AB","BC","UK","KW"]
 },
-{"Question":"q5",
-"correctAnswer":"c",
- "choicesList":["a","b","c"]
+{"Question":"What is the country Code for Emarite?",
+"correctAnswer":"UAE",
+ "choicesList":["UAE","AB","UK","CD"]
 }]
 
 
