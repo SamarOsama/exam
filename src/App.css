@@ -1,0 +1,9 @@
+.login-wrapper
+{
+  height: 400px;
+  box-shadow: 3px 6px 9px #f5f5f5;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
