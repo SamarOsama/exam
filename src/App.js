@@ -12,7 +12,7 @@ function App() {
     <div className="App">
 
       <Provider store={questionStore}  >
- <BrowserRouter baseurl={process.env.PUBLIC_URL}>
+ <BrowserRouter>
  <Routes/>
  </BrowserRouter>
     
